@@ -23,5 +23,8 @@
   "homepage": "https://github.com/ustbhuangyi/ts-axios-doc#readme",
   "devDependencies": {
     "vuepress": "^1.9.7"
+  },
+  "dependencies": {
+    "vuepress-theme-reco": "^1.6.10"
   }
 }

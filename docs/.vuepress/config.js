@@ -3,10 +3,18 @@ module.exports = {
   dest: 'dist',
   title: 'TypeScript 从零实现 axios',
   description: '学习使用 TypeScript 从零实现 axios 库',
+  theme: 'reco',
+  locales: {
+    '/': {
+      lang: 'zh-CN'
+    }
+  },
   themeConfig: {
     editLinks: false,
     docsDir: 'docs',
     nav: [],
+    smoothScroll: true,
+    subSidebar: 'auto',
     sidebar: [
       {
         title: '初识 TypeScript',
