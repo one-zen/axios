@@ -1,6 +1,8 @@
 ---
 home: true
 heroImage: /ts-logo.png
-actionText: 开始学习 →
-actionLink: /chapter1/
+actions:
+  - text: 开始学习
+    link: /chapter1/
+    type: primary
 ---
