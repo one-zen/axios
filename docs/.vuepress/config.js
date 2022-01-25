@@ -7,8 +7,20 @@ module.exports = {
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   // theme: 'reco',
   markdown: {
-    code: { lineNumbers : false },
+    code: { lineNumbers: false },
   },
+  plugins: [
+    [
+      '@vuepress/plugin-search',
+      {
+        locales: {
+          '/': {
+            placeholder: '搜索',
+          }
+        },
+      },
+    ],
+  ],
   themeConfig: {
     sidebar: [
       {
