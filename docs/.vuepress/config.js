@@ -1,6 +1,6 @@
 module.exports = {
   lang: 'zh-CN',
-  base: '/ts-axios/',
+  base: '/ts-axios-doc/',
   dest: 'dist',
   title: 'TypeScript 从零实现 axios',
   description: '学习使用 TypeScript 从零实现 axios 库',
