@@ -1,0 +1,1 @@
+const e={key:"v-bb6211b8",path:"/chapter3/require.html",title:"\u9700\u6C42\u5206\u6790",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Features",slug:"features",children:[]}],git:{updatedTime:1555926882e3,contributors:[{name:"ustbhuangyi",email:"280309453@qq.com",commits:1}]},filePathRelative:"chapter3/require.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-8d9f1d20",path:"/chapter1/install.html",title:"\u5B89\u88C5 TypeScript",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u63D2\u66F2",slug:"\u63D2\u66F2",children:[]}],git:{updatedTime:1555926882e3,contributors:[{name:"ustbhuangyi",email:"280309453@qq.com",commits:1}]},filePathRelative:"chapter1/install.md"};export{t as data};

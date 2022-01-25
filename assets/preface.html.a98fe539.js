@@ -1,0 +1,1 @@
+const e={key:"v-3e4fd334",path:"/chapter11/preface.html",title:"\u524D\u8A00",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1559787947e3,contributors:[{name:"ustbhuangyi",email:"280309453@qq.com",commits:1}]},filePathRelative:"chapter11/preface.md"};export{e as data};
